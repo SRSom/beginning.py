@@ -14,5 +14,5 @@ def sort(l):
 
 list=[5,4,2,1,9,0]
 sort(list)
-
+print(list)
 print(list)
