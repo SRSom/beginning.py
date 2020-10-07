@@ -15,4 +15,4 @@ def sort(l):
 list=[5,4,2,1,9,0]
 sort(list)
 print(list)
-print(list)
+print(list) #no use for this statement one more time
